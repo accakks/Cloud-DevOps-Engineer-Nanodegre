@@ -15,7 +15,4 @@
 |   |   |
 
 
-### Notes (for every lesson)
-| Topic |Description |
-| ------------- | ------------- |
-|   |   |
+
