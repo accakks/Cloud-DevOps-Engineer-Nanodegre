@@ -6,7 +6,7 @@
 - under the Compute section of the AWS Management Console.
 Tip: Spot instances can save you up to 90% off the on-demand pricing.
 
-#### Elastic Block Store - EBS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)
+#### [Elastic Block Store - EBS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)
 - Storage solution for EC2 instances. Physical hardrive connected to server to increase storage. 
 - EC2 has two types of memories: 
 	- In memory(instance store)
